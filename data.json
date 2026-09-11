@@ -30,7 +30,7 @@
       "isHomepage": false,
       "order": 0,
       "lang": "en-GB",
-      "faqTitle": "FAQ",
+      "faqTitle": "Frequently Asked Questions",
       "popupText": "200% welcome up to £430 plus 1000 free spins",
       "popupLogo": "",
       "sections": null,
@@ -97,7 +97,7 @@
       "seo_title": "WinBean Casino UK | Verified Fair Games & Fast Cashouts ",
       "seo_description": "Spin to win at WinBean Casino! Discover 1000+ top-tier slots, progressive jackpots, real-time live casino tables & instant deposit methods for GB players.\n",
       "html_head": "<meta name=\"google-site-verification\" content=\"JzUnHxTjV3hRKVuPaB5DpyGnzdbV6KhFBYYC6blFIkc\" />\n<link rel=\"canonical\" href=\"https://winbean-casino.co.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://winbean-casino.co.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://winbean-casino.co.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"WinBean Casino UK | Verified Fair Games & Fast Cashouts\">\n<meta property=\"og:description\" content=\"Spin to win at WinBean Casino! Discover 1000+ top-tier slots, progressive jackpots, real-time live casino tables & instant deposit methods for GB players.\">\n<meta property=\"og:url\" content=\"winbean-casino.co.uk/\">\n<meta property=\"og:site_name\" content= \"WinBean Casino\">\n",
-      "faq_title": "FAQ",
+      "faq_title": "Frequently Asked Questions",
       "hero_badge": "GB Casino",
       "cta_text": "GET WELCOME BONUS"
     }
@@ -158,7 +158,7 @@
   "features_list": null,
   "footer_text": "© 2026. WinBean Casino. All rights reserved",
   "popup_text": "200% welcome up to £430 plus 1000 free spins",
-  "faq_title": "FAQ",
+  "faq_title": "Frequently Asked Questions",
   "login_text": "Login",
   "register_text": "Sign Up",
   "slots_title": "Game Selection at WinBean Casino Online",
@@ -350,8 +350,8 @@
       "question": "Is verification mandatory before withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-09-11T22:31:08.048Z",
+  "_generated_at": "2026-09-11T22:35:54.377Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-11T22:31:08.653Z",
-  "_deploy_trigger": "vq23mp"
+  "_last_deploy": "2026-09-11T22:35:54.985Z",
+  "_deploy_trigger": "opkwb"
 }
