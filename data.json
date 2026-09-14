@@ -22,17 +22,17 @@
       "gptPrompt": "",
       "heroTitle": "WinBean Casino - Online Casino for Players from GB",
       "heroSubtitle": "BEGIN GROOT, DRAAI GROTER",
-      "heroBadge": "GB Casino",
+      "heroBadge": "WinBean – Your Bonus Awaits",
       "ctaText": "GET WELCOME BONUS",
       "tagline": "200% welcome up to £430 plus 1000 free spins",
-      "heroImage": "",
+      "heroImage": "/uploads/d71383aef43d55f352b4a8364086bc43.webp",
       "template": "homepage",
       "isHomepage": false,
       "order": 0,
       "lang": "en-GB",
       "faqTitle": "Frequently Asked Questions",
       "popupText": "200% welcome up to £430 plus 1000 free spins",
-      "popupLogo": "",
+      "popupLogo": "/uploads/7ef05f57357f5a69cb0cf9acf1d35ddb.svg",
       "sections": null,
       "slots": [
         {
@@ -92,13 +92,15 @@
       "createdAt": {},
       "updatedAt": {},
       "popup_text": "200% welcome up to £430 plus 1000 free spins",
+      "popup_logo": "/uploads/7ef05f57357f5a69cb0cf9acf1d35ddb.svg",
       "hero_title": "WinBean Casino - Online Casino for Players from GB",
       "hero_subtitle": "BEGIN GROOT, DRAAI GROTER",
+      "hero_image": "/uploads/d71383aef43d55f352b4a8364086bc43.webp",
       "seo_title": "WinBean Casino UK | Verified Fair Games & Fast Cashouts ",
       "seo_description": "Spin to win at WinBean Casino! Discover 1000+ top-tier slots, progressive jackpots, real-time live casino tables & instant deposit methods for GB players.\n",
       "html_head": "<meta name=\"google-site-verification\" content=\"JzUnHxTjV3hRKVuPaB5DpyGnzdbV6KhFBYYC6blFIkc\" />\n<link rel=\"canonical\" href=\"https://winbean-casino.co.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://winbean-casino.co.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://winbean-casino.co.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"WinBean Casino UK | Verified Fair Games & Fast Cashouts\">\n<meta property=\"og:description\" content=\"Spin to win at WinBean Casino! Discover 1000+ top-tier slots, progressive jackpots, real-time live casino tables & instant deposit methods for GB players.\">\n<meta property=\"og:url\" content=\"winbean-casino.co.uk/\">\n<meta property=\"og:site_name\" content= \"WinBean Casino\">\n",
       "faq_title": "Frequently Asked Questions",
-      "hero_badge": "GB Casino",
+      "hero_badge": "WinBean – Your Bonus Awaits",
       "cta_text": "GET WELCOME BONUS"
     }
   ],
@@ -152,7 +154,7 @@
   "redirect_site": null,
   "hero_title": "WinBean Casino - Online Casino for Players from GB",
   "hero_subtitle": "BEGIN GROOT, DRAAI GROTER",
-  "hero_badge": "GB Casino",
+  "hero_badge": "WinBean – Your Bonus Awaits",
   "cta_text": "GET WELCOME BONUS",
   "tagline": "200% welcome up to £430 plus 1000 free spins",
   "features_list": null,
@@ -168,17 +170,23 @@
   "home_name": "Winbean casino",
   "subdomains": null,
   "accent_color": "#334155",
-  "main_background": "#000000",
-  "secondary_background": "#ffffff",
-  "button_background": "#ffffff",
+  "main_background": "#0F162A",
+  "secondary_background": "#1B2234",
+  "button_background": "#D3A333",
   "button_text_color": "#ffffff",
-  "text_color": "#010101",
+  "text_color": "#948E8A",
   "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#010101",
   "cta_background": "#ffffff",
-  "logo": null,
-  "popup_logo": null,
-  "main_background_img": null,
+  "logo": {
+    "url": "/uploads/7ef05f57357f5a69cb0cf9acf1d35ddb.svg"
+  },
+  "popup_logo": {
+    "url": "/uploads/7ef05f57357f5a69cb0cf9acf1d35ddb.svg"
+  },
+  "main_background_img": {
+    "url": "/uploads/d71383aef43d55f352b4a8364086bc43.webp"
+  },
   "header_menu": [
     {
       "link": "/play/",
@@ -350,8 +358,8 @@
       "question": "Is verification mandatory before withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-09-11T22:35:54.377Z",
+  "_generated_at": "2026-09-14T10:25:47.732Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-11T22:35:54.985Z",
-  "_deploy_trigger": "opkwb"
+  "_last_deploy": "2026-09-14T10:25:48.293Z",
+  "_deploy_trigger": "ufq8tl"
 }
