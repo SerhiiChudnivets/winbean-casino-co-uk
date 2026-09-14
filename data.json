@@ -167,7 +167,7 @@
   "bonus_title": "Bonuses and Promotions ",
   "get_bonus_btn_text": "GET BONUS",
   "redirect_link": "/play/",
-  "home_name": "Winbean casino",
+  "home_name": "WinBean Casino",
   "subdomains": null,
   "accent_color": "#334155",
   "main_background": "#0F162A",
@@ -258,11 +258,6 @@
     },
     {
       "link": "/play/",
-      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
-      "image_alt": "visa"
-    },
-    {
-      "link": "/play/",
       "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
       "image_alt": "mastercard"
     },
@@ -270,16 +265,6 @@
       "link": "/play/",
       "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
       "image_alt": "apple pay"
-    },
-    {
-      "link": "https://www.gamstop.co.uk/",
-      "image": "/uploads/0265a0cb2e63ae0f2d2aa920b84d53be.webp",
-      "image_alt": "gamstop"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
-      "image_alt": "bank transfer"
     }
   ],
   "Slots": [
@@ -358,8 +343,8 @@
       "question": "Is verification mandatory before withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-09-14T10:59:43.274Z",
+  "_generated_at": "2026-09-14T11:06:00.349Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-14T10:59:43.864Z",
-  "_deploy_trigger": "v0pti5"
+  "_last_deploy": "2026-09-14T11:06:01.012Z",
+  "_deploy_trigger": "59l5n"
 }
