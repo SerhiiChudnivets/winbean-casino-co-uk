@@ -173,8 +173,8 @@
   "main_background": "#0f162a",
   "secondary_background": "#1b2234",
   "button_background": "#d3a333",
-  "button_text_color": "#1b2234",
-  "text_color": "#0f162a",
+  "button_text_color": "#f0ffff",
+  "text_color": "#f0ffff",
   "color_highlight_text": "#fefcee",
   "color_main_btn_text": "#0f162a",
   "cta_background": "#f8bd31",
@@ -343,8 +343,8 @@
       "question": "Is verification mandatory before withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-09-14T11:31:40.138Z",
+  "_generated_at": "2026-09-14T11:36:42.651Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-14T11:31:42.909Z",
-  "_deploy_trigger": "0jxqdc"
+  "_last_deploy": "2026-09-14T11:36:43.279Z",
+  "_deploy_trigger": "szekj"
 }
