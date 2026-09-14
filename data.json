@@ -170,13 +170,13 @@
   "home_name": "WinBean Casino",
   "subdomains": null,
   "accent_color": "#334155",
-  "main_background": "#0F162A",
-  "secondary_background": "#1B2234",
-  "button_background": "#D3A333",
-  "button_text_color": "#fab930",
-  "text_color": "#c1c9d4",
-  "color_highlight_text": "#f3b73b",
-  "color_main_btn_text": "#010101",
+  "main_background": "#0f162a",
+  "secondary_background": "#1b2234",
+  "button_background": "#d3a333",
+  "button_text_color": "#1b2234",
+  "text_color": "#0f162a",
+  "color_highlight_text": "#fefcee",
+  "color_main_btn_text": "#0f162a",
   "cta_background": "#f8bd31",
   "logo": {
     "url": "/uploads/7ef05f57357f5a69cb0cf9acf1d35ddb.svg"
@@ -343,8 +343,8 @@
       "question": "Is verification mandatory before withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-09-14T11:06:00.349Z",
+  "_generated_at": "2026-09-14T11:31:40.138Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-14T11:06:01.012Z",
-  "_deploy_trigger": "59l5n"
+  "_last_deploy": "2026-09-14T11:31:42.909Z",
+  "_deploy_trigger": "0jxqdc"
 }
