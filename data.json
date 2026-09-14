@@ -277,7 +277,7 @@
       "image_alt": "gamstop"
     },
     {
-      "link": "",
+      "link": "/play/",
       "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
       "image_alt": "bank transfer"
     }
@@ -358,8 +358,8 @@
       "question": "Is verification mandatory before withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-09-14T10:25:47.732Z",
+  "_generated_at": "2026-09-14T10:26:14.638Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-14T10:25:48.293Z",
-  "_deploy_trigger": "ufq8tl"
+  "_last_deploy": "2026-09-14T10:26:15.263Z",
+  "_deploy_trigger": "7jz4du"
 }
