@@ -21,9 +21,9 @@
       "htmlHead": "<meta name=\"google-site-verification\" content=\"JzUnHxTjV3hRKVuPaB5DpyGnzdbV6KhFBYYC6blFIkc\" />\n<link rel=\"canonical\" href=\"https://winbean-casino.co.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://winbean-casino.co.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://winbean-casino.co.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"WinBean Casino UK | Verified Fair Games & Fast Cashouts\">\n<meta property=\"og:description\" content=\"Spin to win at WinBean Casino! Discover 1000+ top-tier slots, progressive jackpots, real-time live casino tables & instant deposit methods for GB players.\">\n<meta property=\"og:url\" content=\"winbean-casino.co.uk/\">\n<meta property=\"og:site_name\" content= \"WinBean Casino\">\n",
       "gptPrompt": "",
       "heroTitle": "WinBean Casino - Online Casino for Players from GB",
-      "heroSubtitle": "BEGIN GROOT, DRAAI GROTER",
+      "heroSubtitle": "START BIG, GROW EVEN BIGGER",
       "heroBadge": "WinBean – Your Bonus Awaits",
-      "ctaText": "GET WELCOME BONUS",
+      "ctaText": "GET BONUS",
       "tagline": "200% welcome up to £430 plus 1000 free spins",
       "heroImage": "/uploads/d71383aef43d55f352b4a8364086bc43.webp",
       "template": "homepage",
@@ -94,14 +94,14 @@
       "popup_text": "200% welcome up to £430 plus 1000 free spins",
       "popup_logo": "/uploads/7ef05f57357f5a69cb0cf9acf1d35ddb.svg",
       "hero_title": "WinBean Casino - Online Casino for Players from GB",
-      "hero_subtitle": "BEGIN GROOT, DRAAI GROTER",
+      "hero_subtitle": "START BIG, GROW EVEN BIGGER",
       "hero_image": "/uploads/d71383aef43d55f352b4a8364086bc43.webp",
       "seo_title": "WinBean Casino UK | Verified Fair Games & Fast Cashouts ",
       "seo_description": "Spin to win at WinBean Casino! Discover 1000+ top-tier slots, progressive jackpots, real-time live casino tables & instant deposit methods for GB players.\n",
       "html_head": "<meta name=\"google-site-verification\" content=\"JzUnHxTjV3hRKVuPaB5DpyGnzdbV6KhFBYYC6blFIkc\" />\n<link rel=\"canonical\" href=\"https://winbean-casino.co.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://winbean-casino.co.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://winbean-casino.co.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"WinBean Casino UK | Verified Fair Games & Fast Cashouts\">\n<meta property=\"og:description\" content=\"Spin to win at WinBean Casino! Discover 1000+ top-tier slots, progressive jackpots, real-time live casino tables & instant deposit methods for GB players.\">\n<meta property=\"og:url\" content=\"winbean-casino.co.uk/\">\n<meta property=\"og:site_name\" content= \"WinBean Casino\">\n",
       "faq_title": "Frequently Asked Questions",
       "hero_badge": "WinBean – Your Bonus Awaits",
-      "cta_text": "GET WELCOME BONUS"
+      "cta_text": "GET BONUS"
     }
   ],
   "faq_schema": {
@@ -153,9 +153,9 @@
   "seo_description": "Spin to win at WinBean Casino! Discover 1000+ top-tier slots, progressive jackpots, real-time live casino tables & instant deposit methods for GB players.\n",
   "redirect_site": null,
   "hero_title": "WinBean Casino - Online Casino for Players from GB",
-  "hero_subtitle": "BEGIN GROOT, DRAAI GROTER",
+  "hero_subtitle": "START BIG, GROW EVEN BIGGER",
   "hero_badge": "WinBean – Your Bonus Awaits",
-  "cta_text": "GET WELCOME BONUS",
+  "cta_text": "GET BONUS",
   "tagline": "200% welcome up to £430 plus 1000 free spins",
   "features_list": null,
   "footer_text": "© 2026. WinBean Casino. All rights reserved",
@@ -165,7 +165,7 @@
   "register_text": "Sign Up",
   "slots_title": "Game Selection at WinBean Casino Online",
   "bonus_title": "Bonuses and Promotions ",
-  "get_bonus_btn_text": "GET WELCOME BONUS",
+  "get_bonus_btn_text": "GET BONUS",
   "redirect_link": "/play/",
   "home_name": "Winbean casino",
   "subdomains": null,
@@ -358,8 +358,8 @@
       "question": "Is verification mandatory before withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-09-14T10:45:04.326Z",
+  "_generated_at": "2026-09-14T10:57:12.249Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-14T10:45:05.034Z",
-  "_deploy_trigger": "qofzte"
+  "_last_deploy": "2026-09-14T10:57:12.859Z",
+  "_deploy_trigger": "2k73rg"
 }
