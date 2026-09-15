@@ -5,7 +5,7 @@
   "url": "winbean-casino.co.uk",
   "template": "tupchiy",
   "language_code": "en",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -343,8 +343,8 @@
       "question": "Is verification mandatory before withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-09-15T10:45:50.863Z",
+  "_generated_at": "2026-09-15T15:31:01.210Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-15T10:45:51.480Z",
-  "_deploy_trigger": "u3dths"
+  "_last_deploy": "2026-09-15T15:31:02.074Z",
+  "_deploy_trigger": "bkk5j4"
 }
