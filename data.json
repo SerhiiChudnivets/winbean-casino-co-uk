@@ -68,22 +68,22 @@
         {
           "link": "/play/",
           "logo": "/uploads/be95832195b9252e5b6f62af16470132.webp",
-          "name": "Welcome Bonus Package",
-          "Name": "Welcome Bonus Package",
+          "name": "Welcome Package: Up to £500 + 100 Free Spins",
+          "Name": "Welcome Package: Up to £500 + 100 Free Spins",
           "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/94b7c61354bd80ea9dcdec4d7cc07103.webp",
-          "name": "Weekly Reload Match",
-          "Name": "Weekly Reload Match",
+          "name": "Weekly Reload: 50% Match up to £200",
+          "Name": "Weekly Reload: 50% Match up to £200",
           "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/0ee3b1b6aa6fde1fcfd3ea22d32b202a.webp",
-          "name": "Weekly Cashback Incentive",
-          "Name": "Weekly Cashback Incentive",
+          "name": "Weekly Cashback: 10% Net Return",
+          "Name": "Weekly Cashback: 10% Net Return",
           "logo_alt": "Reload Bonus"
         }
       ],
@@ -301,22 +301,22 @@
     {
       "link": "/play/",
       "logo": "/uploads/be95832195b9252e5b6f62af16470132.webp",
-      "name": "Welcome Bonus Package",
-      "Name": "Welcome Bonus Package",
+      "name": "Welcome Package: Up to £500 + 100 Free Spins",
+      "Name": "Welcome Package: Up to £500 + 100 Free Spins",
       "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/94b7c61354bd80ea9dcdec4d7cc07103.webp",
-      "name": "Weekly Reload Match",
-      "Name": "Weekly Reload Match",
+      "name": "Weekly Reload: 50% Match up to £200",
+      "Name": "Weekly Reload: 50% Match up to £200",
       "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/0ee3b1b6aa6fde1fcfd3ea22d32b202a.webp",
-      "name": "Weekly Cashback Incentive",
-      "Name": "Weekly Cashback Incentive",
+      "name": "Weekly Cashback: 10% Net Return",
+      "Name": "Weekly Cashback: 10% Net Return",
       "logo_alt": "Reload Bonus"
     }
   ],
@@ -343,8 +343,8 @@
       "question": "Is verification mandatory before withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-09-14T11:36:42.651Z",
+  "_generated_at": "2026-09-15T10:45:50.863Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-14T11:36:43.279Z",
-  "_deploy_trigger": "szekj"
+  "_last_deploy": "2026-09-15T10:45:51.480Z",
+  "_deploy_trigger": "u3dths"
 }
